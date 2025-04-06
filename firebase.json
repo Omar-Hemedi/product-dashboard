@@ -1,0 +1,15 @@
+{
+  "emulators": {
+    "dataconnect": {
+      "dataDir": "dataconnect/.dataconnect/pgliteData"
+    }
+  },
+  "dataconnect": {
+    "source": "dataconnect"
+  },
+  "hosting": {
+      "site": "product-dashboard-95b85-e645e",
+  
+      "public": "public"
+  }
+}
